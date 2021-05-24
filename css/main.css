@@ -1,0 +1,46 @@
+h1 {
+    display: inline-block;
+    text-transform: uppercase;
+    color: silver;
+    margin-left: 40%;
+    font-size: 40px;
+    font-family: monospace;
+    margin-bottom: 0;
+}
+p.illustration {
+    display: inline-block;
+    color: silver;
+    margin-left: 47%;
+    margin-top: 0;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img.img {
+    display: inline-block;
+    margin-left: 24%;
+    width: 50%;
+    margin-top: 10px;
+}
+p.text {
+    color: #28468F;
+    display: inline-block;
+    margin-left: 42%;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px;
+    margin-top: 0;
+}
+nav {
+    display: inline-block;
+    float: right;
+    width: 10%;
+    background-color: #28468F;
+    text-transform: uppercase;
+    margin-right: 43%;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding: 17px;  ;
+}
